@@ -1,0 +1,28 @@
+{
+  "name": "webpackisneat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "webpack --watch",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MartinPlusPlus/webpackisneat.git"
+  },
+  "author": "Martin Eldredge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MartinPlusPlus/webpackisneat/issues"
+  },
+  "homepage": "https://github.com/MartinPlusPlus/webpackisneat#readme",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  },
+  "devDependencies": {
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10"
+  }
+}
